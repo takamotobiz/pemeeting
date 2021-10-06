@@ -1,0 +1,1 @@
+ogrinfo -al akiba.shp
