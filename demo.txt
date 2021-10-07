@@ -1,1 +1,5 @@
 ogrinfo -al akiba.shp
+
+# ogr2ogr -f GeoJSON akiba.geojson akiba.shp
+
+https://github.com/gis-oer/datasets/raw/master/osaka.zip
