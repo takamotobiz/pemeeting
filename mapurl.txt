@@ -9,3 +9,11 @@ https://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg
 https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}
 
 https://cyberjapandata.gsi.go.jp/xyz/lcmfc2/{z}/{x}/{y}.png
+
+
+■地理院配信タイル一覧
+https://maps.gsi.go.jp/development/ichiran.html
+
+
+https://labo.takamoto.biz/osakadm/{z}/{x}/{y}.pbf
+https://labo.takamoto.biz/photo/{z}/{x}/{y}.png
