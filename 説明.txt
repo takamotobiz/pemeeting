@@ -1,4 +1,16 @@
+■Zoomミーティングに参加する
+https://us06web.zoom.us/j/84049027753?pwd=bTRSMi9jVXFjMTBvdjZmNTkyN3BCUT09
+
+ミーティングID: 840 4902 7753
+パスコード: 211600
+
+13:55から入室開始
+講演　14:10 - 15:15
+質疑　15:15 - 15:25
+
 https://hibarido.life/workspace/
+
+https://jyouhou.ipej-knk.jp/wp/events/bukaireikai202110/
 
 SELECT *
 FROM "tiles"
