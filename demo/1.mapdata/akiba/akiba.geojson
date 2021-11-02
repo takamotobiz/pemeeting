@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7730789184571,
+          35.698401869505425
+        ]
+      },
+      "properties": {
+        "name": "秋葉原駅"
+      }
+    }
+  ]
+}
